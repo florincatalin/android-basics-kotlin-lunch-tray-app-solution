@@ -1,7 +1,9 @@
 Lunch Tray - Starter Code
 ==================================
 
-Starter code for the third independent project for Android Basics in Kotlin
+Solution code for the third independent project for Android Basics in Kotlin
+by florincatalin (This project gave me a headache to complete!) 
+completed on 22 January 2023
 
 Introduction
 ------------
