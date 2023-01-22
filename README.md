@@ -1,4 +1,4 @@
-Lunch Tray - Starter Code
+Lunch Tray - Solution Code
 ==================================
 
 Solution code for the third independent project for Android Basics in Kotlin
