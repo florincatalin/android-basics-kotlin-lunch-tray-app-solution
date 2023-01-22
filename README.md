@@ -1,14 +1,14 @@
 Lunch Tray - Solution Code
 ==================================
 
-Solution code for the third independent project for Android Basics in Kotlin
+**Solution code** for the third independent project for Android Basics in Kotlin
 by florincatalin (This project gave me a headache to complete!) 
 completed on 22 January 2023
 
 Introduction
 ------------
 
-This is the starter code for the Lunch Tray app project. This project is an opportunity for you to
+This is the **solution code** for the Lunch Tray app project. This project is an opportunity for you to
 demonstrate the concepts you learned in Unit 3 of Android Basics in Kotlin.
 
 Pre-requisites
